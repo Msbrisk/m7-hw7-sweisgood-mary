@@ -190,12 +190,10 @@ span.tooltip:focus > span {
   display: inline;
 }
 
-/* styling for tooltip bubble */
 span.tooltip span {
   display: none;
 }
 
-/* styling for tooltip bubble arrow */
 span.tooltip span::after {
   content: "";
 }
